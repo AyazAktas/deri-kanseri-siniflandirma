@@ -19,6 +19,7 @@ Bu uygulama, deri kanseri tespiti ve sınıflandırması yapmak için geliştiri
 4. "Sınıflandır" düğmesine tıklayarak görüntüyü sınıflandırın.
 5. Sonuçları sağ üst köşede görün.
 
+## Detaylı bilgi için web sitemi ziyaret edin.(https://ayazaktas.netlify.app)
 
 ## Bağımlılıklar
 
@@ -33,17 +34,13 @@ Bu uygulama aşağıdaki Python kütüphanelerine ihtiyaç duyar:
 - `tensorflow` (Derin öğrenme için)
 - `keras` (Derin öğrenme için)
 
-##Detaylı bilgi için web sitemi ziyaret edin.(https://ayazaktas.netlify.app)
-
-
-
-##Sınıflandırma Modelleri
+-Sınıflandırma Modelleri
 Bu uygulama iki farklı sınıflandırma modeli sunar: "Model1" ve "Model2". Her biri farklı özelliklere ve başarı oranlarına sahip olabilir. Hangi modelin kullanılacağını seçebilirsiniz.
 
-##Sonuçları Kaydetme
+-Sonuçları Kaydetme
 Sonuçları kaydetmek isterseniz "Sınıflandırma sonucunu kaydet" onay kutusunu işaretleyin ve bir dosya adı girin. Sonuçlar, seçtiğiniz dosya adıyla metin dosyasına kaydedilir.
 
-##Katkıda Bulunma
+## Katkıda Bulunma
 Bu projeye katkıda bulunmak isterseniz, lütfen forklayın ve pull request gönderin. Katkılarınızı memnuniyetle karşılarız!
 
 ```bash
