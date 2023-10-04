@@ -2,7 +2,7 @@
 
 Bu uygulama, deri kanseri tespiti ve sınıflandırması yapmak için geliştirilmiş bir araçtır. Kullanıcılar, deri lezyonlarının görüntülerini yükleyebilir ve bu görüntülerin kanserli olup olmadığını ve hangi tür kanser olduğunu sınıflandırabilir.
 
-![Örnek Ekran Görüntüsü](DeriKanseri.jpeg)
+![Örnek Ekran Görüntüsü](derikanseri.jpeg)
 
 ## Özellikler
 
